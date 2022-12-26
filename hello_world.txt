@@ -1,1 +1,74 @@
 this is some text  
+
+1 Name Three ways you can declare a variable:
+
+- let
+
+- const
+
+- var
+
+2 Which of the three variable declarations should you avoid and why?
+
+var. Because is is easy to change its value
+
+3 What rules should you follow when naming variables?
+
+be as concise as possible
+
+4 What happens when you add numbers and strings together?
+
+the value  becomes a string
+
+5 How does the Modulo (%), or Remainder, operator work?
+
+% returns the value that is remained upon dividing a number to a different number
+
+6 Explain the difference between == and ===.
+
+== is equal to that value string or number
+
+=== is the exact type and value 
+
+7 When would you receive a NaN result?
+
+when the result is not a number
+
+8 How do you increment and decrement a number?
+
+++ or -- or += or -=
+
+9 Explain the difference between prefixing and postfixing increment/decrement operators.
+
+prefixing happens before the action and post after the action
+
+10 What is operator precedence and how is it handled in JS?
+
+operator precedence is the way you do math
+
+11 How do you access developer tools and the console?
+
+right click and inspect
+
+12 How do you log information to the console?
+
+console.log();
+
+13 What does unary plus operator do to string representations of integers? eg. +”10”
+
+ads two strings together
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
