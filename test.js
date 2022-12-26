@@ -26,3 +26,38 @@ console.log(percentage)
 */
 
 
+// lesson 3
+
+function add7(num) {
+    return num + 7;
+}
+
+console.log(add7(10));
+
+function multiply(num1, num2) {
+    return num1 * num2;
+}
+
+console.log(multiply(2, 3));
+
+function capitalize(string) {
+    const firstLetter = string.charAt(0);
+    const firstLetterCap = firstLetter.toUpperCase();
+
+    const restOfLetters = string.slice(1);
+    const restOfLettersLower = restOfLetters.toLowerCase();
+
+    return firstLetterCap + restOfLettersLower;
+}
+
+console.log(capitalize('STRING'));
+
+
+function lastLetter(string) {
+    const lastLetters = string.charAt(string.length - 1);
+
+    return lastLetters;
+    
+}
+
+console.log(lastLetter('String'));

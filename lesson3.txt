@@ -1,0 +1,27 @@
+What are functions useful for?
+
+    to create a conditon that can be called multiple times
+
+How do you invoke a function?
+
+    function nameOfFunction() {
+        condition goes here
+    }
+
+What are anonymous functions?
+
+    is a function with no name and expects to receive another function as a parameter
+
+What is function scope?
+
+    the variables inside the function are in its scope they will not exist anywhere else
+
+What are return values?
+
+    return values are the values of completed function
+
+
+What are arrow functions?
+
+    arrow functions are one line codes that have condition statement and return value in one line
+    
